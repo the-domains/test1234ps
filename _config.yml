@@ -1,0 +1,28 @@
+name: Test1234PS
+favicon: null
+layout_spectrum: 0.19455278827808797
+typography_spectrum: 0.09978354466147721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.283423492917791
+  lightness: 0.902064660564065
+  saturation: 0.30870447983033955
+  rhythmicContrast: 0.13688164902850986
+purpose: []
